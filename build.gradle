@@ -21,13 +21,13 @@ repositories {
 
 dependencies {
     compile('org.springframework.boot:spring-boot-starter-web');
-    compile('mysql:mysql-connector-java:5.1.39');
+    //compile('mysql:mysql-connector-java:5.1.39');
     compile('org.springframework.boot:spring-boot-starter-data-jpa');
     compile('org.springframework.boot:spring-boot-starter-security');
     compile('org.springframework.boot:spring-boot-starter-mail');
     compile("org.springframework.boot:spring-boot-starter");
     compile("org.springframework.boot:spring-boot-starter-websocket");
-    
+    compile("com.h2database:h2");
 
     //testCompile('org.springframework.boot:spring-boot-starter-test');
 }
