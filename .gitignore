@@ -62,6 +62,6 @@ nbdist/
 /bin/
 
 ### Bower ###
-src/main/resources/static/bower_components
+#src/main/resources/static/bower_components
 src/main/resources/static/node_modules
 /src/main/resources/static/nbproject/private/
