@@ -54,7 +54,7 @@ out/
 
 ### NetBeans ###
 nbproject/
-build/
+#build/
 nbbuild/
 #dist/
 nbdist/
