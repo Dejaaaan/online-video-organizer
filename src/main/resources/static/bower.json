@@ -25,10 +25,10 @@
         "angular-ui-tree": "^2.22.6",
         "ng-scrollbars": "^0.0.11",
         "ng-stomp": "^0.4.0",
-        "angular-growl-v2": "latest",
-        "angular-notification-icons": "latest",
-        "angularjs-socialshare": "latest",
-        "bootstrap-social": "latest"
+        "angular-growl-v2": "0.7.9",
+        "angular-notification-icons": "0.4.4",
+        "angularjs-socialshare": "2.3.11",
+        "bootstrap-social": "5.1.1"
     },
     "resolutions": {
         "angular-ui-router": "^0.3.1"

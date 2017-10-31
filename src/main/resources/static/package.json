@@ -1,0 +1,27 @@
+{
+  "name": "online-video-organizer",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dejaaaan/online-video-organizer.git"
+  },
+  "keywords": [
+    "online",
+    "video",
+    "organizer"
+  ],
+  "author": "levi9 tech9 team3 Dejan Ivanović",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dejaaaan/online-video-organizer/issues"
+  },
+  "homepage": "https://github.com/Dejaaaan/online-video-organizer#readme",
+  "dependencies": {
+    "bower": "^1.8.2"
+  }
+}
